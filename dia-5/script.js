@@ -1,5 +1,4 @@
 res = document.querySelector('.res')
-const confirmaçao = 'sim'
 
 function começar() {
     let frutas = []
